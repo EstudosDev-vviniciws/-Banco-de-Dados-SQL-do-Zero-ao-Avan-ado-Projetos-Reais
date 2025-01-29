@@ -6,8 +6,6 @@ FROM actor
 da tabela (actor)" 
 
 WHERE actor_id <= 10
-"Filtre as colunas (actor_id) que forem menores ou 
-iguais a 10"
-
+"Filtre os registros onde o valor da coluna (actor_id) é menor ou igual a 10."
 
 
