@@ -2,7 +2,7 @@ USE sakila;
 
 SELECT 
 	customer_id,
-    SUM(amount) AS total
+        SUM(amount) AS total
     
 FROM payment
 GROUP BY customer_id
