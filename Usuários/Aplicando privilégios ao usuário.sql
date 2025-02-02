@@ -1,0 +1,8 @@
+
+
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON sakila.*
+TO Vinicius;
+
+SHOW GRANTS FOR Vinicius;
+
